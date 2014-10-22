@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2e868aa-7f43-48cc-876c-20e1b03e343f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/shared/public/css/theme-default/theme-default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/js/core/App.js" afterPath="$PROJECT_DIR$/public/js/core/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/theme-default/boostbox.css" afterPath="$PROJECT_DIR$/public/css/theme-default/boostbox.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/theme-default/boostbox_responsive.css" afterPath="$PROJECT_DIR$/public/css/theme-default/boostbox_responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/start/global.php" afterPath="$PROJECT_DIR$/app/start/global.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/after_login/pages/header.blade.php" afterPath="$PROJECT_DIR$/app/views/after_login/pages/header.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/after_login/pages/sidebar.blade.php" afterPath="$PROJECT_DIR$/app/views/after_login/pages/sidebar.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/boostbox/sidebar.less" afterPath="$PROJECT_DIR$/less/boostbox/sidebar.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/shared/themes/theme-default.less" afterPath="$PROJECT_DIR$/less/shared/themes/theme-default.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/shared/variables.less" afterPath="$PROJECT_DIR$/less/shared/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tmip-dev.iws" />
@@ -37,11 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="sidebar.less" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/less/boostbox/sidebar.less">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/less/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3181818" vertical-offset="8865" max-vertical-offset="10725">
-              <caret line="363" column="52" selection-start-line="363" selection-start-column="52" selection-end-line="363" selection-end-column="52" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="665">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,6 +84,7 @@
         <option value="$PROJECT_DIR$/less/shared/themes/theme-default.less" />
         <option value="$PROJECT_DIR$/less/shared/variables.less" />
         <option value="$PROJECT_DIR$/less/boostbox/sidebar.less" />
+        <option value="$PROJECT_DIR$/less/.gitignore" />
       </list>
     </option>
   </component>
@@ -406,6 +398,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/less" />
       <recent name="$PROJECT_DIR$/app/models" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/app/database/seeds" />
@@ -518,7 +511,13 @@
       <option name="project" value="LOCAL" />
       <updated>1414010031560</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added:&#10;font-awesome&#10;&#10;reason:&#10;the font file path was wrong&#10;&#10;result:&#10;fixing the font file path fixed all font-awesome loading problem&#10;&#10;todo:&#10;is now to edit sidebar's color scheme and lots of js modification needed">
+      <created>1414015661637</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1414015661637</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -917,6 +916,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3181818" vertical-offset="8865" max-vertical-offset="10725">
           <caret line="363" column="52" selection-start-line="363" selection-start-column="52" selection-end-line="363" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/less/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="665">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
