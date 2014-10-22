@@ -169,7 +169,7 @@
 		if (overflowHidden) {
 			menuState = App.MENU_MINIMIZED;
 		}
-		else if (width > 10 && width <= 100) {
+		else if (width > 10 && width <= 113) {
 			menuState = App.MENU_COLLAPSED;
 		}
 		return menuState;

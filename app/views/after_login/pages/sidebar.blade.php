@@ -2,7 +2,7 @@
 <div class="sidebar-content">
     <div class="nav-brand">
         <a class="main-brand" href="../../html/dashboards/dashboard.html">
-            ~ Your logo goes here ~
+            {{ HTML::image('img/logos/logo_sidebar_top.png', '', array('id' => 'tmip-sidebar-logo')) }}
         </a>
     </div>
 

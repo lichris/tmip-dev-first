@@ -16,7 +16,7 @@
 	.transition(width @sidebar-collapse-speed @sidebar-collapse-ease);
 
 	.nav-brand {
-		height: @headerbar-height;
+		height: 275px; //@headerbar-height;
 		background-color: @sidebar-bg;
 		text-align: center;
 	}
@@ -86,8 +86,12 @@
 
 .main-brand {
 	display: block;
-	padding: 10px 0 !important;
+	padding: 81px 0 !important;
 	h3 { margin: 0 !important; }
+    > img {
+        width: 113px;
+        height: 113px;
+    }
 }
 
 
@@ -95,7 +99,7 @@
 // -------------------------
 
 .main-menu { 
-	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+	font-family: 'HanaL';
 	font-size: 13px;
 	padding: 0;
 
@@ -160,7 +164,7 @@
 			position: relative;
 			display: block;
 			background-color: @sidebar-bg;
-			color: @sidebar-color;
+			color: white; //@sidebar-color;
 			text-decoration: none;
 			.button-size(12px; 20px; 13px; 13px; 0);
 			padding-left: 40px;
@@ -179,8 +183,9 @@
 		}
 		&:hover > a,
 		&:focus > a {
-			background-color: lighten(@sidebar-bg, 5%);
-			color: contrast(lighten(@sidebar-bg, 5%), @text-color, @white, @color-threshold);
+			background-color: @brand-inverse; //lighten(@sidebar-bg, 5%);
+			//color: contrast(lighten(@sidebar-bg, 5%), @text-color, @white, @color-threshold);
+            font-weight: bold;
 		}
 		&.active > a {
 			background-color: darken(@sidebar-bg, 10%);
@@ -210,25 +215,25 @@
 
 		// Level 2 submenu markup
 		> ul > li > ul a { 
-			background-color: darken(@sidebar-sub-bg, 5%);
+			background-color: @brand-support2; //darken(@sidebar-sub-bg, 5%);
 			padding-left: 50px; 
 		}
 
 		// Level 3 submenu markup
 		> ul > li > ul > li > ul a { 
-			background-color: darken(@sidebar-sub-bg, 10%);
+			background-color: @brand-support3; //darken(@sidebar-sub-bg, 10%);
 			padding-left: 60px; 
 		}
 
 		// Level 4 submenu markup
 		> ul > li > ul > li > ul > li > ul a { 
-			background-color: darken(@sidebar-sub-bg, 12%);
+			background-color: @brand-support4; //darken(@sidebar-sub-bg, 12%);
 			padding-left: 65px; 
 		}
 
 		// Level 5 submenu markup
 		> ul > li > ul > li > ul > li > ul > li > ul a { 
-			background-color: darken(@sidebar-sub-bg, 14%);
+			background-color: @brand-support5; //darken(@sidebar-sub-bg, 14%);
 			padding-left: 70px; 
 		}
 
@@ -241,7 +246,7 @@
 			> li {
 				&.expanded {
 					> a {
-						color: contrast(@sidebar-sub-bg, @black, @white, @color-threshold);
+						color: white; //contrast(@sidebar-sub-bg, @black, @white, @color-threshold);
 					}
 				}
 				
@@ -295,7 +300,10 @@
 		width: @sidebar-width-collapsed;
 		.transition(all @sidebar-collapse-speed @sidebar-collapse-ease);
 
-		.nav-brand a span { display: none; }
+		.nav-brand a img {
+            width: 70%;
+            height: 70%;
+        }
 	}
 
 	// Main-menu when collapsed
@@ -353,7 +361,7 @@
 			}
 			
 			&.expanded > a {
-				background-color: @sidebar-sub-bg;
+				background-color: @brand-inverse; //@sidebar-sub-bg;
 				.title { 
 					display: block;
 					position: absolute;
@@ -361,7 +369,7 @@
 					padding: 12px 12px 12px 25px;
 					top: -35px;
 					height: 35px;
-					background-color: @sidebar-sub-bg;
+					background-color: @brand-inverse; //@sidebar-sub-bg;
 					color: contrast(@sidebar-sub-bg, @black, @white, @color-threshold);
 					white-space: nowrap;
 					text-transform: initial;
@@ -386,7 +394,7 @@
 				}
 
 				&:hover {
-					background-color: darken(@sidebar-sub-bg, 10%);
+					background-color: @brand-inverse; //darken(@sidebar-sub-bg, 10%);
 				}
 				.fa:first-child {
 					color: inherit;

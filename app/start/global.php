@@ -59,11 +59,11 @@ View::composer('after_login.pages.sidebar', function($view) {
 
 });
 
-View::composer('after_login.pages.header', function($view) {
-
-    $view->with('user', Auth::user());
-
-});
+//View::composer('after_login.pages.header', function($view) {
+//
+//    $view->with('user_name', Auth::user()->user_email);
+//
+//});
 
 /*
 |--------------------------------------------------------------------------
