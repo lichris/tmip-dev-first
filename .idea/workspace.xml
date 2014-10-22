@@ -2,565 +2,286 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2e868aa-7f43-48cc-876c-20e1b03e343f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/after_login/pages/header.blade.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/App.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/BootstrapFixed.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/demo/Demo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/demo/DemoCalendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/demo/DemoCharts.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/demo/DemoDashboard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/demo/DemoDocs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/demo/DemoFormComponents.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/demo/DemoFormEditors.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/demo/DemoFormWizard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/demo/DemoTableDynamic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/demo/DemoUILists.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/core/demo/DemoUIMessages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/css/ColVis.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/css/ColVisAlt.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/ColVis.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/a69b02bcf2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/ccb5a49865.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/global.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/media/css/doc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/media/css/shCore.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/media/css/shThemeDataTables.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/media/images/arrow.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/media/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/media/images/extended.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/media/js/doc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/media/js/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/media/js/shBrushJScript.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/media/js/shCore.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/docs/media/license/Syntax Highlighter" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/images/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/js/ColVis.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/js/ColVis.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/ColVis/js/ColVis.min.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/alt_init.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/alter_buttons.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/bootstrap.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/button_text.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/collection.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/defaults.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/as3/ZeroClipboard.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/as3/ZeroClipboardPdf.as" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/as3/lib/AlivePDF.swc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/css/TableTools.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/css/TableTools_JUI.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/background.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/collection.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/collection_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/copy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/copy_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/csv.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/csv_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/pdf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/pdf_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/print.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/print_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/psd/collection.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/psd/copy document.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/psd/file_types.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/psd/printer.psd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/xls.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/images/xls_hover.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/js/TableTools.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/js/TableTools.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/js/TableTools.min.js.gz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/js/ZeroClipboard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/swf/copy_csv_xls.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/media/swf/copy_csv_xls_pdf.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/multi_instance.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/multiple_tables.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/pdf_message.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/plug-in.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/select_multi.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/select_single.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/swf_path.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/tabs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/extras/TableTools/theme.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/jquery.dataTables.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/jquery.dataTables.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/license-bsd.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/DataTables/license-gpl2.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/cors/jquery.postmessage-transport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/cors/jquery.xdr-transport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/jquery.fileupload-angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/jquery.fileupload-audio.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/jquery.fileupload-image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/jquery.fileupload-jquery-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/jquery.fileupload-process.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/jquery.fileupload-ui.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/jquery.fileupload-validate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/jquery.fileupload-video.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/jquery.fileupload.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/jquery.iframe-transport.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/vendor/jquery.blueimp-gallery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/vendor/jquery.ui.widget.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/vendor/load-image.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/blueimp-file-upload/vendor/tmpl.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-colorpicker/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-colorpicker/bootstrap-colorpicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-colorpicker/bootstrap-colorpicker.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-colorpicker/commits.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/bootstrap-datetimepicker.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ar-ma.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.bs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.cv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.en-au.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.en-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.en-gb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.eo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.eu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.fr-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.gl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.hi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.is.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ka.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.mr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ms-my.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ne.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.nn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.pt-BR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.tzm-la.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.tzm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.uz.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.vn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.zh-CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-datetimepicker/locales/bootstrap-datetimepicker.zh-TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-tagsinput/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-tagsinput/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-tagsinput/bootstrap-tagsinput-angular.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.less" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap-tagsinput/bootstrap-tagsinput.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap/bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/bootstrap/bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/CHANGES.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/adapters/jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/build-config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/ckeditor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/config.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/contents.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/af.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/bn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/bs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/cy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/en-au.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/en-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/en-gb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/eo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/eu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/fo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/fr-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/gl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/gu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/hi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/is.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/ka.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/km.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/ko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/ku.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/mk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/mn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/ms.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/no.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/pt-br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/si.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/sq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/sr-latn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/sr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/ug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/vi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/lang/zh.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/fr-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/gl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/km.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/ko.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/si.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/sq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/sr-latn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/sr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/a11yhelp/dialogs/lang/zh.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/about/dialogs/about.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/about/dialogs/hidpi/logo_ckeditor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/about/dialogs/logo_ckeditor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/clipboard/dialogs/paste.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/dialog/dialogDefinition.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/fakeobjects/images/spacer.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/icons_hidpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/image/dialogs/image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/image/images/noimage.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/link/dialogs/anchor.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/link/dialogs/link.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/link/images/anchor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/link/images/hidpi/anchor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/magicline/images/hidpi/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/magicline/images/icon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/pastefromword/filter/default.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/scayt/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/scayt/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/scayt/dialogs/options.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/scayt/dialogs/toolbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/cy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/eo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/et.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/fi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/fr-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/gl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/he.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/hr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/hu.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/id.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/ja.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/km.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/ku.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/lv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/nb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/no.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/pt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/si.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/sk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/sl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/sq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/sv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/th.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/ug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/uk.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/vi.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/lang/zh.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/specialchar/dialogs/specialchar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/table/dialogs/table.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/tabletools/dialogs/tableCell.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/wsc/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/wsc/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/wsc/dialogs/ciframe.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/wsc/dialogs/tmp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/wsc/dialogs/tmpFrameset.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/wsc/dialogs/wsc.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/wsc/dialogs/wsc.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/plugins/wsc/dialogs/wsc_ie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/ajax.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/api.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/appendto.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/assets/inlineall/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/assets/outputxhtml/outputxhtml.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/assets/posteddata.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/assets/sample.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/assets/sample.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/assets/uilanguages/languages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/datafiltering.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/divreplace.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/inlineall.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/inlinebycode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/inlinetextarea.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/jquery.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/plugins/dialog/assets/my_dialog.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/plugins/dialog/dialog.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/plugins/enterkey/enterkey.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.fla" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/outputforflash.swf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/plugins/htmlwriter/assets/outputforflash/swfobject.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/plugins/htmlwriter/outputforflash.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/plugins/htmlwriter/outputhtml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/plugins/magicline/magicline.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/plugins/toolbar/toolbar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/plugins/wysiwygarea/fullpage.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/readonly.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/replacebyclass.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/replacebycode.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/sample.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/sample.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/sample_posteddata.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/tabindex.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/uicolor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/uilanguages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/samples/xhtmlstyle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/dialog_ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/dialog_ie7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/dialog_ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/dialog_iequirks.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/dialog_opera.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/editor.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/editor_gecko.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/editor_ie.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/editor_ie7.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/editor_ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/editor_iequirks.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/icons_hidpi.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/images/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/images/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/images/hidpi/close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/images/hidpi/lock-open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/images/hidpi/lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/images/hidpi/refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/images/lock-open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/images/lock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/images/refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/skins/moono/readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/ckeditor/styles.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/excanvas-modified/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/excanvas-modified/excanvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/excanvas-modified/excanvas.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.colorhelpers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.colorhelpers.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.canvas.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.canvas.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.categories.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.categories.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.crosshair.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.crosshair.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.errorbars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.errorbars.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.fillbetween.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.fillbetween.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.image.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.image.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.navigate.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.navigate.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.orderBars.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.pie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.pie.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.resize.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.resize.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.selection.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.selection.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.stack.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.stack.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.symbol.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.symbol.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.threshold.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.threshold.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.time.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/flot/jquery.flot.time.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/fullcalendar/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/fullcalendar/fullcalendar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/fullcalendar/fullcalendar.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/fullcalendar/gcal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/fullcalendar/license.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-apollo.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-basic.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-clj.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-css.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-dart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-erlang.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-go.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-hs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-lisp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-llvm.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-lua.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-matlab.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-ml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-mumps.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-n.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-pascal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-proto.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-r.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-rd.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-scala.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-sql.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-tcl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-tex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-vb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-vhdl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-wiki.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-xq.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/lang-yaml.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/prettify.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/google-code-prettify/run_prettify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/inputmask/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/inputmask/jQuery.InputMask.2.3.65.nupkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/inputmask/jquery.inputmask.bundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/inputmask/jquery.inputmask.bundle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/inputmask/min/jquery.inputmask.date.extensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/inputmask/min/jquery.inputmask.extensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/inputmask/min/jquery.inputmask.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/inputmask/min/jquery.inputmask.numeric.extensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/inputmask/min/jquery.inputmask.phone.extensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/inputmask/min/jquery.inputmask.regex.extensions.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-knob/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-knob/jquery.knob.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-ui/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-ui/jquery-ui-1.10.3.complete.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-ui/jquery-ui-1.10.3.custom.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-ui/jquery-ui-1.10.3.custom.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/changelog.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/ajaxSubmit-integration-demo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/captcha/captcha.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/captcha/fonts/Anorexia.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/captcha/image_req.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/captcha/images/button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/captcha/images/image.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/captcha/index.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/captcha/newsession.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/captcha/process.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/captcha/rand.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/captcha/style.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/css/cmxform.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/css/cmxformTemplate.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/css/core.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/css/reset.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/css/screen.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/start/global.php" afterPath="$PROJECT_DIR$/app/start/global.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/after_login/layouts/master.blade.php" afterPath="$PROJECT_DIR$/app/views/after_login/layouts/master.blade.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/backRequiredGray.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/back_green-fade.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/back_nav_blue.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/images/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/login/images/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/milk/bg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/button-submit.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/images/checked.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/images/cmxform-divider.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/images/cmxform-fieldset.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/firebug/errorIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/login/images/header1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/tinymce/themes/simple/img/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/firebug/infoIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/left-nav-callout-long.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/milk/left_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/login-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/logo_marketo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/milk/milk.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/login/images/page.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/login/images/required_star.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/milk/right_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/sf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/step1-24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/step2-24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/step3-24.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/tab-sprite.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/tab_green.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/time.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/toggle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/images/unchecked.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/images/warning.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/firebug/warningIcon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/multi-select/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/spin.js/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wysihtml5/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/moment/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/morris.js/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/nestable/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/raphael/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/slimscroll/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/sparkline/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/toastr/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/typeahead/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wizard/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/morris.js/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wizard/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/DataTables/$FileParnetDir$/public/css/theme-default/TableTools.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/TableTools.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/TableTools.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/dist/additional-methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/dist/additional-methods.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wysihtml5/advanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/bootstrap-colorpicker/$FileParnetDir$/public/css/theme-default/bootstrap-colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/bootstrap-colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/bootstrap-colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/bootstrap-tagsinput/$FileParnetDir$/public/css/theme-default/bootstrap-tagsinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/bootstrap-tagsinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/bootstrap-tagsinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/public/css/theme-default/bootstrap-tagsinput.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/custom-messages-data-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/custom-methods-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/dynamic-totals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/tinymce/themes/simple/editor_template.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/tinymce/themes/simple/langs/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/errorcontainer-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/file_input.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/firebug/firebug.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/firebug/firebug.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/firebug/firebug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/firebug/firebugx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/fullcalendar/$FileParnetDir$/public/css/theme-default/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/fullcalendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/utils/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/login/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/milk/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/multipart/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/tabs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/tinymce/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/selects/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery/jquery-1.11.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery/jquery-1.11.0.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/lib/jquery-1.6.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/lib/jquery-1.7.2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/lib/jquery-1.8.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/lib/jquery-1.9.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery/jquery-migrate-1.2.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/jquery-ui/$FileParnetDir$/public/css/theme-default/jquery-ui-boostbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/jquery-ui-boostbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/jquery-ui-boostbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wizard/jquery.bootstrap.wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wizard/jquery.bootstrap.wizard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/DataTables/$FileParnetDir$/public/css/theme-default/jquery.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/jquery.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/jquery.dataTables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/lib/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/lib/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/multipart/js/jquery.maskedinput-1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/jquery.maskedinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/lib/jquery.mockjax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/multi-select/jquery.multi-select.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/nestable/jquery.nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/slimscroll/jquery.slimscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/slimscroll/jquery.slimscroll.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/sparkline/jquery.sparkline.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/dist/jquery.validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/dist/jquery.validate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/jquerymobile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/moment/langs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/moment/langs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/large.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/messages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_kk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_pt_PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_si.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_zh.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/messages_zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/methods_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/methods_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/localization/methods_pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/milk/milk.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/mktSignup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/moment/moment-with-langs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/moment/moment-with-langs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/moment/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/morris.js/morris.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/morris.js/morris.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/multi-select/$FileParnetDir$/public/css/theme-default/multi-select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/multi-select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/multi-select.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/nestable/$FileParnetDir$/public/css/theme-default/nestable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/nestable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/nestable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/qunit/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/qunit/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/radio-checkbox-select-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/raphael/raphael-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/release.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/utils/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/rules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/login/screen.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/select2/$FileParnetDir$/public/css/theme-default/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_en.js.template" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_pt-PT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_ua.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/select2/select2_locale_zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wysihtml5/simple.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/spin.js/spin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/step2.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/multipart/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/marketo/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/test/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/shared/public/css/theme-default/theme-default.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/themerollered.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/tinymce/tiny_mce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/toastr.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/toastr.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/toastr/$FileParnetDir$/public/css/theme-default/toastr.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/toastr/toastr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/toastr/toastr.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/toastr/toastr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/typeahead.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/typeahead.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/typeahead/$FileParnetDir$/public/css/theme-default/typeahead.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/typeahead/typeahead.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/typeahead/typeahead.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/multipart/js/ui.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/multipart/js/ui.core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/jquery-validation/demo/tinymce/themes/simple/skins/default/ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/wizard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/wizard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/wizard/$FileParnetDir$/public/css/theme-default/wizard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wysihtml5/wysihtml5-0.2.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wysihtml5/wysihtml5-0.2.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wysihtml5/wysihtml5-0.3.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wysihtml5/wysihtml5-0.3.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wysihtml5/wysihtml5-0.4.0pre.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/js/libs/wysihtml5/wysihtml5-0.4.0pre.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/wysihtml5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/public/css/theme-default/wysihtml5.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/less/libs/wysihtml5/$FileParnetDir$/public/css/theme-default/wysihtml5.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tmip-dev.iws" />
@@ -586,11 +307,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="master.blade.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/after_login/layouts/master.blade.php">
+      <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitattributes">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4347826" vertical-offset="0" max-vertical-offset="1800">
-              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -705,6 +426,72 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmip-dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmip-dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmip-dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmip-dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jquery" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmip-dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tmip-dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -951,7 +738,13 @@
       <option name="project" value="LOCAL" />
       <updated>1414001754019</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added:&#10;bunch of js files&#10;&#10;reason:&#10;&#10;result:&#10;&#10;todo:&#10;">
+      <created>1414004185804</created>
+      <option name="number" value="00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1414004185804</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -1000,7 +793,8 @@
     <MESSAGE value="somehow the server.php file was missing&#10;do not know how and why...&#10;is added and local dev server is now running correctly" />
     <MESSAGE value="added:&#10;SessionsController&#10;StudentsController&#10;&#10;reason:&#10;to generate the login mechanism and to redirect to subdomians after login&#10;&#10;result:&#10;mostly working well&#10;&#10;todo:&#10;nothing" />
     <MESSAGE value="added:&#10;MenuElement.php&#10;sidebarMenuList.blade.php&#10;&#10;reason:&#10;to generate menu list in the main-menu sidebar&#10;&#10;result:&#10;just for the top-level-elements shows right now&#10;somehow is the jQuery not working....i guess.....&#10;&#10;todo:&#10;fix the sidebar ASAP!!!" />
-    <option name="LAST_COMMIT_MESSAGE" value="added:&#10;MenuElement.php&#10;sidebarMenuList.blade.php&#10;&#10;reason:&#10;to generate menu list in the main-menu sidebar&#10;&#10;result:&#10;just for the top-level-elements shows right now&#10;somehow is the jQuery not working....i guess.....&#10;&#10;todo:&#10;fix the sidebar ASAP!!!" />
+    <MESSAGE value="added:&#10;bunch of js files&#10;&#10;reason:&#10;&#10;result:&#10;&#10;todo:&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="added:&#10;bunch of js files&#10;&#10;reason:&#10;&#10;result:&#10;&#10;todo:&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1307,8 +1101,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/after_login/layouts/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4347826" vertical-offset="0" max-vertical-offset="1800">
-          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+        <state vertical-scroll-proportion="0.9057971" vertical-offset="0" max-vertical-offset="1800">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18796992" vertical-offset="0" max-vertical-offset="665">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="690">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
