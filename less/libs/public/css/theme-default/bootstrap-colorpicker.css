@@ -14,8 +14,8 @@
   font-style: normal;
 }
 @font-face {
-  font-family: 'NotoSansHant-Thin';
-  src: url('fonts/NotoSansHant-Thin/webfont.eot?#iefix') format('embedded-opentype'), url('fonts/NotoSansHant-Thin/webfont.otf') format('opentype'), url('fonts/NotoSansHant-Thin/webfont.woff') format('woff'), url('fonts/NotoSansHant-Thin/webfont.ttf') format('truetype'), url('fonts/NotoSansHant-Thin/webfont.svg#NotoSansHant-Thin') format('svg');
+  font-family: 'NotoSansHaut-Thin';
+  src: url('fonts/NotoSansHaut-Thin/webfont.eot?#iefix') format('embedded-opentype'), url('fonts/NotoSansHaut-Thin/webfont.otf') format('opentype'), url('fonts/NotoSansHaut-Thin/webfont.woff') format('woff'), url('fonts/NotoSansHaut-Thin/webfont.ttf') format('truetype'), url('fonts/NotoSansHaut-Thin/webfont.svg#NotoSansHaut-Thin') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -35,7 +35,7 @@
   font-family: 'ronniaregular';
 }
 .font-chinese {
-  font-family: 'NotoSansHant-Thin';
+  font-family: 'NotoSansHaut-Thin';
 }
 .font-korean {
   font-family: 'HanaL';
