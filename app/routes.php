@@ -11,4 +11,32 @@
 |
 */
 
+//  Sessions routing-------------------------------------------------------
+//  Start
+//
 
+Route::get('/', 'SessionsController@index');
+Route::get('/login', 'SessionsController@showLoginPage');
+Route::get('/logout', 'SessionsController@tryLogout');
+Route::post('/attemptToLogin', 'SessionsController@attemptToLogin');
+
+//
+//  End
+//  -----------------------------------------------------------------------
+
+
+//  including module-separated routes files
+require_once app_path().'/routes.students.php';
+
+//  including testing routes files just for local env
+if (App::environment('local'))
+{
+    //  include
+    require_once app_path().'/routes.tests.php';
+}
+
+//  including testing routes files just for development env
+if (App::environment('development'))
+{
+    //  include
+}

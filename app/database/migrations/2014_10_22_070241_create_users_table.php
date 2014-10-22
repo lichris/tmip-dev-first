@@ -3,11 +3,6 @@
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 
-use Illuminate\Auth\UserTrait;
-use Illuminate\Auth\UserInterface;
-use Illuminate\Auth\Reminders\RemindableTrait;
-use Illuminate\Auth\Reminders\RemindableInterface;
-
 class CreateUsersTable extends Migration {
 
 	/**
@@ -20,9 +15,9 @@ class CreateUsersTable extends Migration {
 		Schema::create('users', function(Blueprint $table)
 		{
 			$table->increments('id');
-			$table->string('user_name');
-			$table->string('password');
-			$table->string('role_name');
+			$table->string('user_email', 60);
+			$table->string('password', 100);
+			$table->string('role_name', 10);
             $table->rememberToken();
 			$table->timestamps();
 		});

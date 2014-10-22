@@ -1,4 +1,4 @@
-@extends('......after_login.layouts.before_login.master')
+@extends('before_login.layouts.master')
 
 @section('body_content')
 	<!-- START LOGIN BOX -->
@@ -11,14 +11,14 @@
 					{{ HTML::image('img/logos/logo_The_Mandarin.png', '', array('id' => 'the-mandarin-logo')) }}
 				</h2>
 				
-				{{ Form::open() }}
+				{{ Form::open(array('action' => 'SessionsController@attemptToLogin')) }}
 
 						<table id="login-form-table-group" class="col-xs-12 no-padding">
 							<tbody>
 								<tr>
 									<td class="col-xs-8 no-padding">
 										<div id="user-email" class="col-xs-12 no-padding">
-											{{ Form::email('user-email', '', array('class' => 'form-control no-padding',
+											{{ Form::email('user_email', '', array('class' => 'form-control no-padding',
 																					'placeholder' => 'Email')) }}
 										</div>
 									</td>
@@ -32,7 +32,7 @@
 								<tr>
 									<td class="col-xs-8 no-padding">
 										<div id="user-password" class="col-xs-12 no-padding">
-											{{ Form::password('user-password', array('class' => 'form-control no-padding',
+											{{ Form::password('password', array('class' => 'form-control no-padding',
 																					 'placeholder' => 'Password')) }}
 										</div>
 									</td>
