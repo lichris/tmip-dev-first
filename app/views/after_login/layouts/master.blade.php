@@ -31,7 +31,7 @@
 	<body>
 
 	    <header id="header">
-        	@yield('header_content')
+        	@include('after_login.pages.header')
         </header>
         <div id="base">
         	<div id="sidebar">
