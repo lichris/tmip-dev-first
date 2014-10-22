@@ -8,15 +8,10 @@ class SessionsController extends \BaseController {
 	 *
 	 * @return Response
 	 */
-	public function index() {
+	public function showDashboard() {
 		//
-        if ( Auth::check() ) {
-            if ( Auth::user()->role_name == 'student' ) {
-                return Redirect::to('students/dashboard');
-            }
-        }
-        else {
-            return Redirect::to('login');
+        if (Auth::user()->role_name == 'student') {
+            return Redirect::to('students/dashboard');
         }
 	}
 
@@ -26,9 +21,7 @@ class SessionsController extends \BaseController {
 
 	public function attemptToLogin() {
         if ( Auth::attempt(Input::only('user_email', 'password')) ) {
-            if ( Auth::user()->role_name == 'student' ) {
-                return Redirect::to('students/dashboard');
-            }
+            return Redirect::to('/');
         }
         else {
             return Redirect::back()->withInput();

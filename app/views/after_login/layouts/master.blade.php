@@ -43,15 +43,25 @@
         </div>
 
         <!-- BEGIN JAVASCRIPT -->
-        <link rel="javascript" href="{{ URL::asset('js/libs/jquery/jquery-1.11.0.min.js') }}">
-        <link rel="javascript" href="{{ URL::asset('js/libs/jquery/jquery-migrate-1.2.1.min.js') }}">
-        <link rel="javascript" href="{{ URL::asset('js/core/BootstrapFixed.js') }}">
-        <link rel="javascript" href="{{ URL::asset('js/libs/bootstrap/bootstrap.min.js') }}">
-
-        <!-- Additional JS includes -->
-        @yield('additional_js_includes')
-
+        {{ HTML::script('js/libs/jquery/jquery-1.11.0.min.js') }}
+        {{ HTML::script('js/libs/jquery/jquery-migrate-1.2.1.min.js') }}
+        {{ HTML::script('js/libs/jquery-ui/jquery-ui-1.10.3.custom.min.js') }}
+        {{ HTML::script('js/core/BootstrapFixed.js') }}
+        {{ HTML::script('js/libs/bootstrap/bootstrap.min.js') }}
+        {{ HTML::script('js/libs/spin.js/spin.min.js') }}
+        {{ HTML::script('js/libs/moment/moment.min.js') }}
+        {{ HTML::script('js/libs/flot/jquery.flot.min.js') }}
+        {{ HTML::script('js/libs/flot/jquery.flot.time.min.js') }}
+        {{ HTML::script('js/libs/flot/jquery.flot.resize.min.js') }}
+        {{ HTML::script('js/libs/flot/jquery.flot.orderBars.js') }}
+        {{ HTML::script('js/libs/flot/jquery.flot.pie.js') }}
+        {{ HTML::script('js/libs/jquery-knob/jquery.knob.js') }}
+        {{ HTML::script('js/libs/sparkline/jquery.sparkline.min.js') }}
+        {{ HTML::script('js/libs/slimscroll/jquery.slimscroll.min.js') }}
+        {{ HTML::script('js/libs/fullcalendar/fullcalendar.min.js') }}
+        {{ HTML::script('js/libs/bootstrap/bootstrap.min.js') }}
         <!-- Always put App.js and Demo.js last in your javascript imports -->
-        <link rel="javascript" href="{{ URL::asset('js/core/App.js') }}">
+        {{ HTML::script('js/core/App.js') }}
+        {{ HTML::script('js/core/demo/Demo.js') }}
 	</body>
 </html>

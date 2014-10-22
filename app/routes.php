@@ -15,8 +15,8 @@
 //  Start
 //
 
-Route::get('/', 'SessionsController@index');
-Route::get('/login', 'SessionsController@showLoginPage');
+Route::get('/', 'SessionsController@showDashboard')->before('auth');
+Route::get('/login', 'SessionsController@showLoginPage')->before('check_auth');
 Route::get('/logout', 'SessionsController@tryLogout');
 Route::post('/attemptToLogin', 'SessionsController@attemptToLogin');
 

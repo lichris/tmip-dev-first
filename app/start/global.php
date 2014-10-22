@@ -20,6 +20,45 @@ ClassLoader::addDirectories(array(
 
 ));
 
+View::composer('after_login.pages.sidebar', function($view) {
+
+    $student_sidebar_menulist = array(
+
+        new MenuElement('내 클래스', 'students/myClass',
+            array(
+                new MenuElement('개별 보기', 'students/myClass/viewIndividually'),
+            )
+        ),
+
+        new MenuElement('레벨 테스트', 'students/levelTest',
+            array(
+                new MenuElement('레벨 테스트 참여', 'students/levelTest/participate'),
+                new MenuElement('결과보기', 'students/levelTest/showResults'),
+            )
+        ),
+
+        new MenuElement('교육 종합평가', 'students/comprehensiveEvaluation'),
+
+        new MenuElement('커뮤니티', 'students/community',
+            array(
+                new MenuElement('방명록', 'students/community/guestBook'),
+                new MenuElement('게시판', 'students/community/board',
+                    array(
+                        new MenuElement('공지사항', 'students/community/board/bulletin'),
+                        new MenuElement('학습자료', 'students/community/board/learningMaterials'),
+                        new MenuElement('과제', 'students/community/board/assignment'),
+                    )),
+            )
+        ),
+
+        new MenuElement('내 교육 스케줄', 'students/mySchedule'),
+
+    );
+
+    $view->with('menu_list', $student_sidebar_menulist);
+
+});
+
 /*
 |--------------------------------------------------------------------------
 | Application Error Logger
