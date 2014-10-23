@@ -1036,6 +1036,14 @@ ul.list-extra-spacing li:first-child {
 .main-menu li > table > tbody > tr:hover {
   background-color: #1c1e33;
 }
+.main-menu li > table > tbody > tr.active {
+  background-color: #666988;
+  color: #F2F2F2;
+}
+.main-menu li > table > tbody > tr.active:hover {
+  background-color: #1c1e33;
+  color: #f2f2f2;
+}
 .main-menu li > table > tbody > tr td {
   padding: 0px;
 }
@@ -1420,8 +1428,6 @@ td.contains-expand-sign {
 }
 @media (max-width: 767px) {
   #header .navbar-default {
-    color: #ffffff;
-    background-color: #0b0c1d;
     border: none;
   }
   #header .navbar-default .navbar-header {
