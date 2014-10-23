@@ -57,7 +57,8 @@
 		$('.btn-menu').on('click', function(e) {
 			o._handleMenuState(e);
 		});
-		$('.main-menu').on('click', 'li', function(e) {
+		$('.contains-expand-sign').on('click', function(e) {
+			//alert("working!!");
 			o._handleMenuItemClick(e);
 		});
 		$('.sidebar-search > a').on('click', function(e) {
@@ -101,9 +102,10 @@
 		e.stopPropagation();
 
 		var item = $(e.currentTarget);
+		var item = item.closest('li');
 		var link = item.find('> a');
-		var submenu = item.find('> ul');
 		var parentmenu = item.closest('ul');
+		var submenu = parentmenu.find('> li > ul');
 
 		if (submenu.length !== 0) {
 			this._closeMenus(parentmenu);

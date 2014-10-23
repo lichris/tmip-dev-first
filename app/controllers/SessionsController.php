@@ -8,10 +8,10 @@ class SessionsController extends \BaseController {
 	 *
 	 * @return Response
 	 */
-	public function showDashboard() {
+	public function showIndex() {
 		//
         if (Auth::user()->role_name == 'student') {
-            return Redirect::to('students/dashboard');
+            return Redirect::to('students/myClass');
         }
 	}
 

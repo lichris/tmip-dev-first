@@ -60,8 +60,7 @@
         {{ HTML::script('js/libs/slimscroll/jquery.slimscroll.min.js') }}
         {{ HTML::script('js/libs/fullcalendar/fullcalendar.min.js') }}
         {{ HTML::script('js/libs/bootstrap/bootstrap.min.js') }}
-        <!-- Always put App.js and Demo.js last in your javascript imports -->
         {{ HTML::script('js/core/App.js') }}
-        {{ HTML::script('js/core/demo/Demo.js') }}
+        {{ HTML::script('js/core/TmipApp.js') }}
 	</body>
 </html>

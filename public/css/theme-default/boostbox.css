@@ -1028,6 +1028,17 @@ ul.list-extra-spacing li:first-child {
   margin: 0;
   list-style: none;
 }
+.main-menu li > table {
+  width: 100%;
+  height: 42px;
+  color: white;
+}
+.main-menu li > table > tbody > tr:hover {
+  background-color: #1c1e33;
+}
+.main-menu li > table > tbody > tr td {
+  padding: 0px;
+}
 .main-menu li .expand-sign {
   display: inline-block;
   margin-left: 5px;
@@ -1043,8 +1054,8 @@ ul.list-extra-spacing li:first-child {
   -o-transition: all 0.15s linear;
   transition: all 0.15s linear;
 }
-.main-menu li.expanded > a .expand-sign,
-.main-menu li.expanding > a .expand-sign {
+.main-menu li.expanded > span.expand-sign,
+.main-menu li.expanding > span.expand-sign {
   font-size: 18px;
   font-weight: 300;
   -webkit-transform: rotate(-45deg);
@@ -1110,7 +1121,7 @@ ul.list-extra-spacing li:first-child {
   height: 0px;
   border-style: solid;
   border-width: 7px 20px 0 0;
-  border-color: #0a0b13 transparent transparent transparent;
+  border-color: #252845 transparent transparent transparent;
 }
 .main-menu > li > ul:after {
   position: absolute;
@@ -1121,25 +1132,25 @@ ul.list-extra-spacing li:first-child {
   height: 0px;
   border-style: solid;
   border-width: 7px 0 0 20px;
-  border-color: transparent transparent transparent #0a0b13;
+  border-color: transparent transparent transparent #252845;
 }
 .main-menu > li > ul > li {
   background: #f2f2f2;
   padding-right: 20px;
 }
-.main-menu > li > ul > li > ul a {
+.main-menu > li > ul > li > table > tbody > tr {
   background-color: #303352;
   padding-left: 50px;
 }
-.main-menu > li > ul > li > ul > li > ul a {
+.main-menu > li > ul > li > ul > li > table > tbody > tr {
   background-color: #464966;
   padding-left: 60px;
 }
-.main-menu > li > ul > li > ul > li > ul > li > ul a {
+.main-menu > li > ul > li > ul > li > ul > li > table > tbody > tr {
   background-color: #5a5d7e;
   padding-left: 65px;
 }
-.main-menu > li > ul > li > ul > li > ul > li > ul > li > ul a {
+.main-menu > li > ul > li > ul > li > ul > li > ul > li > table > tbody > tr {
   background-color: #666988;
   padding-left: 70px;
 }
@@ -1179,6 +1190,9 @@ ul.list-extra-spacing li:first-child {
 .main-menu > li ul > li > a:focus {
   background-color: #494e87;
   color: #ffffff;
+}
+td.contains-expand-sign {
+  cursor: pointer;
 }
 .sidebar-collapsed #content {
   display: block;

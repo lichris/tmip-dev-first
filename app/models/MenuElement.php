@@ -12,6 +12,8 @@ class MenuElement {
     private $url;
     private $subMenu;
     private $hasSubMenu;
+	private $isExpand;
+	private $isActive;
 
     /**
      * @return mixed
@@ -77,12 +79,55 @@ class MenuElement {
         $this->hasSubMenu = $hasSubMenu;
     }
 
-    public function __construct($user="", $url="", $subMenu=NULL) {
-        $this->name = $user;
+    public function __construct($name="", $url="#", $current_url="", $subMenu=NULL) {
+        $this->name = $name;
         $this->url = $url;
         $this->subMenu = $subMenu;
         $this->hasSubMenu = false;
         if ($this->subMenu != NULL) $this->hasSubMenu = true;
+	    $this->isActive = false;
+	    $this->isExpand = false;
+	    if (strlen(strstr($current_url, URL::route($url)))>0) {
+		    $this->setIsExpand(true);
+	    }
+	    if (URL::route($url) == $current_url) {
+		    $this->setIsActive(true);
+	    }
     }
+
+	/**
+	 * @return boolean
+	 */
+	public function getIsActive()
+	{
+		return $this->isActive;
+	}
+
+	/**
+	 * @param boolean $isActive
+	 */
+	public function setIsActive($isActive)
+	{
+		$this->isActive = $isActive;
+		$this->isExpand = !$isActive;
+	}
+
+	/**
+	 * @return boolean
+	 */
+	public function getIsExpand()
+	{
+		return $this->isExpand;
+	}
+
+	/**
+	 * @param boolean $isExpand
+	 */
+	public function setIsExpand($isExpand)
+	{
+		$this->isExpand = $isExpand;
+		$this->isActive = !$isExpand;
+	}
+
 
 } 
