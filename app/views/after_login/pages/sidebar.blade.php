@@ -1,5 +1,4 @@
-<div class="sidebar-back"></div>
-<div class="sidebar-content">
+<div class="sidebar-back sidebar-content">
     <div class="nav-brand">
         <a class="main-brand" href="../../html/dashboards/dashboard.html">
             {{ HTML::image('img/logos/logo_sidebar_top.png', '', array('id' => 'tmip-sidebar-logo')) }}
