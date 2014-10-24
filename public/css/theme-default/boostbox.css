@@ -68,6 +68,25 @@
 #forgot-password a {
   font-weight: bold;
 }
+.showMyClassMainContent {
+  top: 5px;
+  background-color: #f2f2f2;
+}
+.showMyClassMainContent > .row-header {
+  margin-left: 0px !important;
+  background-color: #f2f2f2 !important;
+}
+.showMyClassMainContent > .row-header-description {
+  background-color: #f2f2f2 !important;
+}
+.showMyClassMainContent > .row-header-description > div > div.box-body {
+  padding-left: 0px !important;
+}
+.showMyClassMainContent > .row {
+  margin-left: 59px;
+  margin-right: 59px;
+  background-color: white;
+}
 @-webkit-keyframes lock-collapse {
   from {
     height: 1200px;
@@ -3745,7 +3764,7 @@ li.dropdown-progress .progress {
 .box.style-primary {
   background-color: #0b0c1d;
   border-color: #0b0c1d;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-primary .btn-group-transparent > .btn:hover,
 .box.style-primary .btn-group-transparent > .btn:hover,
@@ -3758,9 +3777,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-primary,
 .box-head.style-primary,
 .box-body-darken.style-primary {
-  background-color: #010103;
-  border-color: #010103;
-  color: #ffffff;
+  background-color: #0b0c1d;
+  border-color: #0b0c1d;
+  color: #f2f2f2;
 }
 .box-head .style-primary .btn-group-transparent > .btn:hover,
 .box-body-darken .style-primary .btn-group-transparent > .btn:hover,
@@ -3777,7 +3796,7 @@ li.dropdown-progress .progress {
 .box.style-success {
   background-color: #339933;
   border-color: #339933;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-success .btn-group-transparent > .btn:hover,
 .box.style-success .btn-group-transparent > .btn:hover,
@@ -3790,9 +3809,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-success,
 .box-head.style-success,
 .box-body-darken.style-success {
-  background-color: #2a7e2a;
-  border-color: #2a7e2a;
-  color: #ffffff;
+  background-color: #339933;
+  border-color: #339933;
+  color: #f2f2f2;
 }
 .box-head .style-success .btn-group-transparent > .btn:hover,
 .box-body-darken .style-success .btn-group-transparent > .btn:hover,
@@ -3809,7 +3828,7 @@ li.dropdown-progress .progress {
 .box.style-warning {
   background-color: #f09609;
   border-color: #f09609;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-warning .btn-group-transparent > .btn:hover,
 .box.style-warning .btn-group-transparent > .btn:hover,
@@ -3822,9 +3841,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-warning,
 .box-head.style-warning,
 .box-body-darken.style-warning {
-  background-color: #ce8008;
-  border-color: #ce8008;
-  color: #ffffff;
+  background-color: #f09609;
+  border-color: #f09609;
+  color: #f2f2f2;
 }
 .box-head .style-warning .btn-group-transparent > .btn:hover,
 .box-body-darken .style-warning .btn-group-transparent > .btn:hover,
@@ -3841,7 +3860,7 @@ li.dropdown-progress .progress {
 .box.style-danger {
   background-color: #e51400;
   border-color: #e51400;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-danger .btn-group-transparent > .btn:hover,
 .box.style-danger .btn-group-transparent > .btn:hover,
@@ -3854,9 +3873,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-danger,
 .box-head.style-danger,
 .box-body-darken.style-danger {
-  background-color: #c11100;
-  border-color: #c11100;
-  color: #ffffff;
+  background-color: #e51400;
+  border-color: #e51400;
+  color: #f2f2f2;
 }
 .box-head .style-danger .btn-group-transparent > .btn:hover,
 .box-body-darken .style-danger .btn-group-transparent > .btn:hover,
@@ -3873,7 +3892,7 @@ li.dropdown-progress .progress {
 .box.style-info {
   background-color: #0d8dd7;
   border-color: #0d8dd7;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-info .btn-group-transparent > .btn:hover,
 .box.style-info .btn-group-transparent > .btn:hover,
@@ -3886,9 +3905,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-info,
 .box-head.style-info,
 .box-body-darken.style-info {
-  background-color: #0b77b5;
-  border-color: #0b77b5;
-  color: #ffffff;
+  background-color: #0d8dd7;
+  border-color: #0d8dd7;
+  color: #f2f2f2;
 }
 .box-head .style-info .btn-group-transparent > .btn:hover,
 .box-body-darken .style-info .btn-group-transparent > .btn:hover,
@@ -3905,7 +3924,7 @@ li.dropdown-progress .progress {
 .box.style-black {
   background-color: #0c0c0c;
   border-color: #0c0c0c;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-black .btn-group-transparent > .btn:hover,
 .box.style-black .btn-group-transparent > .btn:hover,
@@ -3918,9 +3937,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-black,
 .box-head.style-black,
 .box-body-darken.style-black {
-  background-color: #000000;
-  border-color: #000000;
-  color: #ffffff;
+  background-color: #0c0c0c;
+  border-color: #0c0c0c;
+  color: #f2f2f2;
 }
 .box-head .style-black .btn-group-transparent > .btn:hover,
 .box-body-darken .style-black .btn-group-transparent > .btn:hover,
@@ -3937,7 +3956,7 @@ li.dropdown-progress .progress {
 .box.style-white {
   background-color: #ffffff;
   border-color: #ffffff;
-  color: #333333;
+  color: #f2f2f2;
 }
 .box .style-white .btn-group-transparent > .btn:hover,
 .box.style-white .btn-group-transparent > .btn:hover,
@@ -3950,9 +3969,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-white,
 .box-head.style-white,
 .box-body-darken.style-white {
-  background-color: #ededed;
-  border-color: #ededed;
-  color: #333333;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: #f2f2f2;
 }
 .box-head .style-white .btn-group-transparent > .btn:hover,
 .box-body-darken .style-white .btn-group-transparent > .btn:hover,
@@ -3969,7 +3988,7 @@ li.dropdown-progress .progress {
 .box.style-gray {
   background-color: #e4e4e4;
   border-color: #e4e4e4;
-  color: #333333;
+  color: #f2f2f2;
 }
 .box .style-gray .btn-group-transparent > .btn:hover,
 .box.style-gray .btn-group-transparent > .btn:hover,
@@ -3982,9 +4001,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-gray,
 .box-head.style-gray,
 .box-body-darken.style-gray {
-  background-color: #d2d2d2;
-  border-color: #d2d2d2;
-  color: #ffffff;
+  background-color: #e4e4e4;
+  border-color: #e4e4e4;
+  color: #f2f2f2;
 }
 .box-head .style-gray .btn-group-transparent > .btn:hover,
 .box-body-darken .style-gray .btn-group-transparent > .btn:hover,
@@ -4001,7 +4020,7 @@ li.dropdown-progress .progress {
 .box.style-inverse {
   background-color: #1c1e33;
   border-color: #1c1e33;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-inverse .btn-group-transparent > .btn:hover,
 .box.style-inverse .btn-group-transparent > .btn:hover,
@@ -4014,9 +4033,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-inverse,
 .box-head.style-inverse,
 .box-body-darken.style-inverse {
-  background-color: #0f101c;
-  border-color: #0f101c;
-  color: #ffffff;
+  background-color: #1c1e33;
+  border-color: #1c1e33;
+  color: #f2f2f2;
 }
 .box-head .style-inverse .btn-group-transparent > .btn:hover,
 .box-body-darken .style-inverse .btn-group-transparent > .btn:hover,
@@ -4033,7 +4052,7 @@ li.dropdown-progress .progress {
 .box.style-body {
   background-color: #f2f2f2;
   border-color: #f2f2f2;
-  color: #333333;
+  color: #f2f2f2;
 }
 .box .style-body .btn-group-transparent > .btn:hover,
 .box.style-body .btn-group-transparent > .btn:hover,
@@ -4046,9 +4065,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-body,
 .box-head.style-body,
 .box-body-darken.style-body {
-  background-color: #e0e0e0;
-  border-color: #e0e0e0;
-  color: #333333;
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+  color: #f2f2f2;
 }
 .box-head .style-body .btn-group-transparent > .btn:hover,
 .box-body-darken .style-body .btn-group-transparent > .btn:hover,
@@ -4065,7 +4084,7 @@ li.dropdown-progress .progress {
 .box.style-support1 {
   background-color: #252845;
   border-color: #252845;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-support1 .btn-group-transparent > .btn:hover,
 .box.style-support1 .btn-group-transparent > .btn:hover,
@@ -4078,9 +4097,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-support1,
 .box-head.style-support1,
 .box-body-darken.style-support1 {
-  background-color: #191b2e;
-  border-color: #191b2e;
-  color: #ffffff;
+  background-color: #252845;
+  border-color: #252845;
+  color: #f2f2f2;
 }
 .box-head .style-support1 .btn-group-transparent > .btn:hover,
 .box-body-darken .style-support1 .btn-group-transparent > .btn:hover,
@@ -4097,7 +4116,7 @@ li.dropdown-progress .progress {
 .box.style-support2 {
   background-color: #303352;
   border-color: #303352;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-support2 .btn-group-transparent > .btn:hover,
 .box.style-support2 .btn-group-transparent > .btn:hover,
@@ -4110,9 +4129,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-support2,
 .box-head.style-support2,
 .box-body-darken.style-support2 {
-  background-color: #23253b;
-  border-color: #23253b;
-  color: #ffffff;
+  background-color: #303352;
+  border-color: #303352;
+  color: #f2f2f2;
 }
 .box-head .style-support2 .btn-group-transparent > .btn:hover,
 .box-body-darken .style-support2 .btn-group-transparent > .btn:hover,
@@ -4129,7 +4148,7 @@ li.dropdown-progress .progress {
 .box.style-support3 {
   background-color: #464966;
   border-color: #464966;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-support3 .btn-group-transparent > .btn:hover,
 .box.style-support3 .btn-group-transparent > .btn:hover,
@@ -4142,9 +4161,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-support3,
 .box-head.style-support3,
 .box-body-darken.style-support3 {
-  background-color: #373a51;
-  border-color: #373a51;
-  color: #ffffff;
+  background-color: #464966;
+  border-color: #464966;
+  color: #f2f2f2;
 }
 .box-head .style-support3 .btn-group-transparent > .btn:hover,
 .box-body-darken .style-support3 .btn-group-transparent > .btn:hover,
@@ -4161,7 +4180,7 @@ li.dropdown-progress .progress {
 .box.style-support4 {
   background-color: #5a5d7e;
   border-color: #5a5d7e;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-support4 .btn-group-transparent > .btn:hover,
 .box.style-support4 .btn-group-transparent > .btn:hover,
@@ -4174,9 +4193,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-support4,
 .box-head.style-support4,
 .box-body-darken.style-support4 {
-  background-color: #4b4e69;
-  border-color: #4b4e69;
-  color: #ffffff;
+  background-color: #5a5d7e;
+  border-color: #5a5d7e;
+  color: #f2f2f2;
 }
 .box-head .style-support4 .btn-group-transparent > .btn:hover,
 .box-body-darken .style-support4 .btn-group-transparent > .btn:hover,
@@ -4193,7 +4212,7 @@ li.dropdown-progress .progress {
 .box.style-support5 {
   background-color: #666988;
   border-color: #666988;
-  color: #ffffff;
+  color: #f2f2f2;
 }
 .box .style-support5 .btn-group-transparent > .btn:hover,
 .box.style-support5 .btn-group-transparent > .btn:hover,
@@ -4206,9 +4225,9 @@ li.dropdown-progress .progress {
 .box-body-darken .style-support5,
 .box-head.style-support5,
 .box-body-darken.style-support5 {
-  background-color: #575974;
-  border-color: #575974;
-  color: #ffffff;
+  background-color: #666988;
+  border-color: #666988;
+  color: #f2f2f2;
 }
 .box-head .style-support5 .btn-group-transparent > .btn:hover,
 .box-body-darken .style-support5 .btn-group-transparent > .btn:hover,

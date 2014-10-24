@@ -76,6 +76,25 @@
 #forgot-password a {
   font-weight: bold;
 }
+.showMyClassMainContent {
+  top: 5px;
+  background-color: #f2f2f2;
+}
+.showMyClassMainContent > .row-header {
+  margin-left: 0px !important;
+  background-color: #f2f2f2 !important;
+}
+.showMyClassMainContent > .row-header-description {
+  background-color: #f2f2f2 !important;
+}
+.showMyClassMainContent > .row-header-description > div > div.box-body {
+  padding-left: 0px !important;
+}
+.showMyClassMainContent > .row {
+  margin-left: 59px;
+  margin-right: 59px;
+  background-color: white;
+}
 @-webkit-keyframes lock-collapse {
   from {
     height: 1200px;

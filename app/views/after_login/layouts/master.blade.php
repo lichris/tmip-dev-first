@@ -62,5 +62,7 @@
         {{ HTML::script('js/libs/bootstrap/bootstrap.min.js') }}
         {{ HTML::script('js/core/App.js') }}
         {{ HTML::script('js/core/TmipApp.js') }}
+        {{ HTML::script('js/core/demo/DemoCharts.js') }}
+        {{ HTML::script('js/core/demo/Demo.js') }}
 	</body>
 </html>

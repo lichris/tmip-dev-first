@@ -8,6 +8,10 @@
 
 Route::group(array('prefix' => 'students'), function() {
 
+	Route::get('/', array('as' => 'students', function() {
+		return Redirect::to('/');
+	}));
+
 	Route::group(array('prefix' => 'myClass'), function() {
 
 		Route::get('/', array('as' => 'students.myClass',

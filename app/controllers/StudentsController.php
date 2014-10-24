@@ -3,7 +3,11 @@
 class StudentsController extends \BaseController {
 
 	public function showMyClass() {
-		return View::make('students.showMyClass')->with('dummy', 'showMyClass');
+		$named_route = 'students.myClass';
+		$named_route_token_array = explode('.', $named_route);
+		//dd($named_route_token_array);
+		return View::make('students.showMyClass')
+			->with('named_route_token_array', $named_route_token_array);
 	}
 
 	public function showIndividually() {

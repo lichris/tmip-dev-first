@@ -133,7 +133,7 @@
 		&.@{name} {
 			background-color: @color;
 			border-color: @color;
-			color: contrast(@color,@text-color,@white, @color-threshold);
+			color: @tmip-backgroud-color;
 
 			.btn-group-transparent > .btn:hover,
 				.btn-group-transparent > .btn-group > .btn:hover { 
@@ -146,9 +146,9 @@
 	.box-body-darken {
 		.@{name},
 		&.@{name} {
-			background-color: darken(@color, 7%);
-			border-color: darken(@color, 7%);
-			color: contrast(darken(@color, 7%), @text-color, @white, @color-threshold);
+			background-color: @color;
+			border-color: @color;
+			color: @tmip-backgroud-color;
 
 			.btn-group-transparent > .btn:hover,
 				.btn-group-transparent > .btn-group > .btn:hover { 

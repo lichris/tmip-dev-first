@@ -143,22 +143,26 @@
 
 } //
 
-// Dashboard screen
+// students screen
 // -------------------------
 
-//#sidebar {
-//  width: 275px;
-//  .sidebar-content {
-//    .nav-brand {
-//      height: 275px;
-//      .main-brand {
-//        padding-top: 81px;
-//        padding-bottom: 81px;
-//        #tmip-sidebar-logo {
-//          width: 113px;
-//          height: 113px;
-//        }
-//      }
-//    }
-//  }
-//}
+// showMyClass
+.showMyClassMainContent {
+  	top: 5px;
+  	background-color: @tmip-backgroud-color;
+  	> .row-header {
+		margin-left: 0px !important;
+		background-color: @tmip-backgroud-color !important;
+	}
+  	> .row-header-description {
+		background-color: @tmip-backgroud-color !important;
+	  	> div > div.box-body {
+		  	padding-left: 0px !important;
+		}
+	}
+  	> .row {
+	  	margin-left: 59px;
+	  	margin-right: 59px;
+	  	background-color: white;
+	}
+}
